@@ -25,7 +25,7 @@ Currently working as a Senior Software Development Engineer owning an applicatio
         </h4> July 2013 - Present </h4>
     </td>
     <td>
-        <img src="https://media.press.amazonstudios.com/userfiles/images/Corporate_Assets/Prime_Video_Logo_Mature_Market_Pitch_Dark_Blue_RGB.jpg#gh-light-mode-only" width="300" style="float:right" />
+        <img src="./img/Amazon_Prime_Video_logo.svg" width="300" style="float:right" />
     </td>
 </table>
 
@@ -134,7 +134,7 @@ Currently working as a Senior Software Development Engineer owning an applicatio
         <h4> Grade: 2.1 </h4>
     </td>
     <td>
-        <img src="https://www.abdn.ac.uk/global/images/layout/UoA_Primary_Logo_RGB_2018.svg#gh-light-mode-only" width="300" style="float:right" />
+        <img src="./img/UoA_Primary_Logo_RGB_2018.svg#gh-light-mode-only" width="300" style="float:right" />
     </td>
 </table>
 
