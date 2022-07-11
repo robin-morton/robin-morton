@@ -115,9 +115,31 @@ Currently working as a Senior Software Development Engineer owning an applicatio
 
 ## Qualifications
 
-- AWS Solutions Architect - Associate
-- AWS Certified Solutions Architect - Associate (SAA)
-- AWS Certified Cloud Practitioner (CLF)
+<table style="width:100%; text-align: center">
+    <thead/>
+    <tr>
+        <td>
+            <a href="https://www.credly.com/badges/aa9f21ef-9ac0-472c-a5d2-afcc1c2fe8ef">
+                <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/> 
+            </a>
+        </td>
+        <td>
+            <a href="https://www.credly.com/badges/9b63b7c5-6023-4d20-92e4-aa58a842c190">
+                <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.credly.com/badges/c1d8921d-7a0e-4349-9c3b-dea7ebabf0ad"> 
+                <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td> AWS Certified Solutions Architect - Associate (SAA) </td>
+        <td> AWS Certified Developer - Associate (DVA) </td>
+        <td> AWS Certified Cloud Practitioner (CLF) </td>
+    </tr>
+</table>
 
 ### In progress
 
