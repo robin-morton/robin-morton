@@ -115,9 +115,9 @@ Currently working as a Senior Software Development Engineer owning an applicatio
 
 ## Qualifications
 
-<table style="width:100%; text-align: center">
+<table style="width:100%">
     <thead/>
-    <tr>
+    <tr style="text-align: center">
         <td>
             <a href="https://www.credly.com/badges/aa9f21ef-9ac0-472c-a5d2-afcc1c2fe8ef">
                 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/> 
@@ -134,7 +134,7 @@ Currently working as a Senior Software Development Engineer owning an applicatio
             </a>
         </td>
     </tr>
-    <tr>
+    <tr style="text-align: center">
         <td> AWS Certified Solutions Architect - Associate (SAA) </td>
         <td> AWS Certified Developer - Associate (DVA) </td>
         <td> AWS Certified Cloud Practitioner (CLF) </td>
@@ -158,7 +158,7 @@ Currently working as a Senior Software Development Engineer owning an applicatio
         <h4> Grade: 2.1 </h4>
     </td>
     <td>
-        <img src="./img/UoA_Primary_Logo_RGB_2018.svg#gh-light-mode-only" width="300" style="float:right" />
+        <img src="./img/UoA_Primary_Logo_RGB_2018.svg" width="300" style="float:right" />
     </td>
 </table>
 
