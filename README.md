@@ -22,7 +22,7 @@ Currently working as a Senior Software Development Engineer owning an applicatio
     <td>
         <h3> Senior Software Engineer </h3>
         <h4> Amazon, Prime Video <h4>
-        </h4> July 2013 - Present </h4>
+        </h4> July 2013 - June 2022 </h4>
     </td>
     <td>
         <img src="./img/Amazon_Prime_Video_logo.svg" width="300" style="float:right" />
