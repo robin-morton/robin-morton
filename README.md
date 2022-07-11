@@ -115,12 +115,14 @@ Currently working as a Senior Software Development Engineer owning an applicatio
 
 ## Qualifications
 
-- AWS Cloud Practitioner Certified
-- AWS Developer Associate Certified
+- AWS Solutions Architect - Associate
+- AWS Certified Solutions Architect - Associate (SAA)
+- AWS Certified Cloud Practitioner (CLF)
 
 ### In progress
 
-- AWS Solutions Architect
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Database - Specialty
 
 ---
 
