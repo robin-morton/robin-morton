@@ -12,11 +12,30 @@ Experienced Senior Software Engineer with specialisms in backend engineering, au
 
 I have built tools and services which allow Prime Video to be continually released to hundreds of millions of customers, with confidence in product quality on a daily basis.
 
-Currently working as a Senior Software Development Engineer owning an application-critical backend service handling many tens of thousands of transactions per seconds. My service ensures that Prime Video customers are able to browse, discover, and enjoy all the content on the Prime Video platform.
+Currently working as a Senior Software Development Engineer within the Banking Organisation delivering business critical features and processes to ensure the launch of our Core Banking System under tight deadlines.
 
 ---
 
 ## Experience
+
+<table style="width:100%">
+    <td>
+        <h3> Senior Software Engineer - Banking </h3>
+        <h4> Spendesk <h4>
+        </h4> July 2022 - Present </h4>
+    </td>
+    <td>
+        <img src="./img/spendesk-logo.svg" width="300" style="float:right" />
+    </td>
+</table>
+
+#### Key Projects
+
+- Senior Engineer with in the Banking Organisation which is responsible for building banking functionality for the Spendesk application. The ecosystem is comprised of numerous microservices built and deployed as Docker containers which use different AWS service's for Compute, Data Storage, Database etc. I work as part of a team of 8 - 10 engineers to implement various features of Spendesk's Core Banking System.
+
+  - I designed and spearheaded the move from very manual and error-prone releases with non-deterministic outcomes to a use CI/CD processes using GitHub Actions and AWS CodePipeline. Allowing for consistent releases of the micro-services and increasing the release cadence from ~10 times per 6 months to multiple times per day
+  - I implemented processes to ensure that the microservices included valid OpenAPI (swagger) Specifications which were then used to autogenerate HTTP clients consumed by the integration team. This reduced the manual effort required to expose API resources to zero and ultimately increased the delivery speed of our features to the wider company. It also allowed for Banking engineers to quickly onboard to new services by being able to consume these OpenAPI Specifications using applications like Postman or Insomnia to easily make requests to their services.
+  - Implemented various features for different banking domains including; accounting, know-your-customer (KYC), and cards and payments
 
 <table style="width:100%">
     <td>
@@ -101,6 +120,14 @@ Currently working as a Senior Software Development Engineer owning an applicatio
             <li> AWS CDK </li>
             <li> Bash </li>
             <li> Automation Testing </li>
+        </ul>
+    </td>
+    <td>
+        <ul> 
+            <li> Docker </li>
+            <li> GitHub Actions</li>
+            <li> OpenAPI </li>
+            <li> PostgreSQL </li>
         </ul>
     </td>
     <td>
