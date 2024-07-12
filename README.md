@@ -12,7 +12,9 @@ Experienced Senior Software Engineer with specialisms in backend engineering, au
 
 I have built tools and services which allow Prime Video to be continually released to hundreds of millions of customers, with confidence in product quality on a daily basis.
 
-Currently working as a Senior Software Development Engineer within the Banking Organisation delivering business critical features and processes to ensure the launch of our Core Banking System under tight deadlines.
+Currently working as an Acting Staff Engineer within the Banking Organisation at Spendesk delivering business critical features and organising technical work items for several teams to ensure the scalability of our technical stack during a period of rapid growth as we migrate customers to our new Core Banking System (CBS).
+
+I have a keen interest in developer autonomy, end-to-end ownership, and developer experience. I help to guide technical decision making within both my organisation and across Spendesk in topics such as Security, Infrastructure, and Scalability.
 
 ---
 
@@ -31,11 +33,18 @@ Currently working as a Senior Software Development Engineer within the Banking O
 
 #### Key Projects
 
-- Senior Engineer with in the Banking Organisation which is responsible for building banking functionality for the Spendesk application. The ecosystem is comprised of numerous microservices built and deployed as Docker containers which use different AWS service's for Compute, Data Storage, Database etc. I work as part of a team of 8 - 10 engineers to implement various features of Spendesk's Core Banking System.
+- Acting Staff Engineer, working on business critical products to ensure the continued service to customers in both the UK and EEA. Designing complex, scalable, and reliable systems to be implemented by several teams with in Spendesk Financial Services. Proving a Technical Roadmap to ensure the healthy running of Spendesk's CBS as customers are migrated to our in-house solution.
+  - Designed a business critical solution for migrating Spendesk's UK customers from a third-party provider to a hybrid solution managed by Spendesk Financial Service's and a new third-party partner.
+    - Negotiated for great autonomy and ownership for the engineers working on the project to have greater freedoms to choose the right technology to deliver quickly, remove bottlenecks, and reduce the business risk from their current technical solution.
+    - Designed high-level and low-level system architectures built on top of AWS Serverless offerings to allow my team of senior engineers to deliver a scalable and reliable solution quickly.  
+    - I was the technical representative on the Partner Selection Committee with responsibilities of rating and assessing each potential candidate partner so that the best partner was chosen from a technical standpoint to support the business's current and future goals.
+  - Own and maintain a priortised technical backlog and road map for Spendesk Financial Services, ensuring that key technical topics where completed by all teams in the business. These topics ranged from Security topics to keep customer data safe, database upgrades, updating other End-of-Life infrastructure and also general improvements to improve engineer productivity.
 
+- Senior Engineer within the Banking Organisation which is responsible for building banking functionality for the Spendesk application. The ecosystem is comprised of numerous microservices built and deployed as Docker containers which use different AWS service's for Compute, Data Storage, Database etc. I work as part of a team of 8 - 10 engineers to implement various features of Spendesk's Core Banking System.
+
+  - Provided technical guidance for implementing load testing for all services with Spendesk Financial Services, ensuring the core infrastructure would scale correctly as customers were migrated to our in-house platform. Drove discussions for capacity planning and ensured technical topics were priortised to ensure the platform would be able to handle the forecasted increase in load. 
   - I designed and spearheaded the move from very manual and error-prone releases with non-deterministic outcomes to a use CI/CD processes using GitHub Actions and AWS CodePipeline. Allowing for consistent releases of the micro-services and increasing the release cadence from ~10 times per 6 months to multiple times per day
   - I implemented processes to ensure that the microservices included valid OpenAPI (swagger) Specifications which were then used to autogenerate HTTP clients consumed by the integration team. This reduced the manual effort required to expose API resources to zero and ultimately increased the delivery speed of our features to the wider company. It also allowed for Banking engineers to quickly onboard to new services by being able to consume these OpenAPI Specifications using applications like Postman or Insomnia to easily make requests to their services.
-  - Implemented various features for different banking domains including; accounting, know-your-customer (KYC), and cards and payments
 
 <table style="width:100%">
     <td>
@@ -118,6 +127,7 @@ Currently working as a Senior Software Development Engineer within the Banking O
         <ul> 
             <li> AWS </li>
             <li> AWS CDK </li>
+            <li> AWS Serverless - Lambda, Step Functions, SQS </li>
             <li> Bash </li>
             <li> Automation Testing </li>
         </ul>
@@ -128,6 +138,7 @@ Currently working as a Senior Software Development Engineer within the Banking O
             <li> GitHub Actions</li>
             <li> OpenAPI </li>
             <li> PostgreSQL </li>
+            <li> Domain Driven Design</li>
         </ul>
     </td>
     <td>
@@ -135,6 +146,7 @@ Currently working as a Senior Software Development Engineer within the Banking O
             <li> Highly scalable services </li>
             <li> REST API design </li>
             <li> Microservice Architecture </li>
+            <li> Event Driven Architecture </li>
             <li> Continuos Integration/ Continuos Delivery </li>
         </ul>
     </td>
